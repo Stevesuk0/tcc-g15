@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "maliang[opt]>=3.1.5",
+    "pystray>=0.19.5",
     "wmi>=1.5.1",
 ]
